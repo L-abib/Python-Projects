@@ -1,0 +1,580 @@
+cat : A furry friend that says "meow!"
+book : A doorway to countless stories
+apple : A crunchy and sweet fruit
+chair : You sit on it while relaxing
+pencil : Draws lines, sketches dreams
+river : Flows gently, carries life
+happy : A smile's favorite emotion
+dance : Moving rhythmically to music
+plane : Soars high above the clouds
+candle : Lights the dark, smells great
+pizza : A cheesy slice of heaven
+clock : Keeps ticking, tracks time
+bottle : Holds water or a fizzy drink
+jungle : Home to tigers and monkeys
+bridge : Helps you cross over rivers
+table : Holds your dinner or books
+winter : A season of snow and chills
+cloud : Floats in the sky, makes rain
+rocket : Shoots into space, reaches stars
+coffee : A morning boost in a cup
+shadow : Follows you everywhere silently
+helmet : Protects your head on adventures
+island : Land surrounded by the sea
+camera : Captures memories forever
+garden : Flowers, bees, and peace grow here
+castle : Home to kings, queens, and knights
+button : Keeps your shirt together
+ticket : Entry to fun places or travel
+guitar : Strum it, make music
+window : Lets the sunlight in
+planet : A home in the vast universe
+orange : A fruit or a fiery color
+forest : Tall trees and hidden trails
+kitten : A baby that loves to purr
+singer : Shares melodies with the world
+wallet : Holds cash and cards
+ladder : Helps you climb higher
+statue : Frozen art made of stone
+roller : Glides on paint or skates
+bridge : Over water, it connects lands
+ocean : Endless blue, home to waves
+rabbit : Hops fast, loves carrots
+school : A place for learning and friends
+pillow : Where dreams rest at night
+engine : Makes vehicles go zoom
+doctor : Heals wounds and cures illnesses
+drawer : Keeps your stuff organized
+cookie : A treat that's crumbly and sweet
+soccer : Played with a ball and goals
+mirror : Shows your reflection perfectly
+jigsaw : A puzzle that tests patience
+rocket : Travels beyond Earth's bounds
+basket : Holds your groceries or eggs
+castle : Built for royalty and defense
+lemon : Sour but refreshing in water
+banana : Monkeys go crazy for this fruit
+travel : Explore new places and cultures
+friend : Someone who always has your back
+spring : A season of bloom and green
+dancer : Spins, leaps, and grooves to tunes
+wallet : A safe home for your money
+pebble : Tiny stones by the river
+trophy : A prize for being the best
+frosty : Cold and covered in ice
+sleeve : Covers your arms in shirts
+camera : Clicks memories, one snapshot at a time
+puzzle : Challenges your brain to solve
+wallet : Your money’s little shelter
+parrot : A bird that loves to mimic
+breeze : Gentle wind that cools the air
+beach : Where the sand meets the sea
+animal : They roam wild or stay as pets
+wallet : Holds currency and cards alike
+tricky : Full of clever twists and turns
+garden : A patch for flowers and veggies
+rocket : A fast flyer to outer space
+cheese : A mouse’s dream come true
+soccer : A game with a net and a ball
+planet : Spins in space, home to life
+bottle : Holds water, juice, or potions
+flower : Blooms with color and fragrance
+bridge : Lets you cross over rivers or gaps
+rabbit : Fast hopper, loves carrots
+winter : Snowy season, cold and bright
+spring : Season of blooms and new life
+engine : Makes cars move with a roar
+butter : Goes great on toast or popcorn
+pebble : Tiny stone found on beaches
+ladder : Helps you climb up high
+candle : Brings light, scents, and warmth
+castle : Where kings and queens reside
+camera : Captures moments forever
+ticket : Your pass to fun or travel
+coffee : Liquid energy for mornings
+forest : A home for animals and trees
+jungle : A wild land full of life
+trophy : A reward for hard-earned victory
+banana : A fruit loved by monkeys
+cookie : Sweet, baked, and a delight
+mirror : Reflects who’s staring at it
+pillow : Rest your head for sweet dreams
+orange : A juicy fruit or a sunny shade
+friend : Always there for the good times
+travel : Exploring the world step by step
+rocket : Flies far into the unknown
+soccer : A worldwide game of goals
+wallet : Safeguards cash and IDs
+planet : A spinning world in space
+breeze : A soft wind to cool you down
+rabbit : A hopping, fluffy pet or snack lover
+flower : Brightens up gardens and days
+castle : Fortress of royalty or fantasy
+camera : Snaps photos for memories
+engine : The heart of machines
+cookie : A crunchy, sweet snack
+soccer : Game of goals and glory
+bread : A staple for sandwiches and toast
+laptop : A portable computer
+needle : A sharp tool for sewing
+circus : A show with acrobats and clowns
+silver : A shiny metal or precious color
+button : Keeps clothes from falling apart
+window : Lets in light and views
+school : A place to learn and grow
+parrot : A bird that mimics voices
+guitar : A stringed instrument for melodies
+wallet : Keeps money safe and handy
+breeze : A light wind on a sunny day
+banana : Yellow fruit loved by monkeys
+ticket : A pass for travel or events
+forest : A home for wildlife and trees
+pillow : Cushions your dreams
+bridge : Helps you cross rivers and gaps
+castle : Majestic homes for royalty
+candle : Brings light to the dark
+soccer : A sport with a ball and goals
+planet : Spins in the vast universe
+coffee : The fuel for many mornings
+mirror : Shows who’s looking at it
+flower : Brightens gardens and hearts
+ladder : Helps you climb to heights
+rabbit : A furry friend with big ears
+spring : Season of renewal and blooms
+engine : Powers cars, planes, and more
+garden : A space to grow beauty or food
+rocket : Flies through space to stars
+trophy : A symbol of winning
+button : Tiny but essential in clothes
+orange : A fruit and a color alike
+jigsaw : A puzzle full of pieces
+butter : Melts on bread, popcorn, and more
+travel : Discovering new places and cultures
+camera : Clicks to freeze a moment
+bottle : Holds drinks or potions
+cheese : A dairy delight for all ages
+bridge : Connects places and people
+ticket : An invitation to adventures
+castle : A fortress for royalty and dreams
+forest : Green and full of life
+wallet : Houses money, cards, and IDs
+dancer : Spins and moves to the rhythm
+helmet : Shields your head during rides
+pencil : Writes ideas and sketches dreams
+cookie : Sweet treat that crumbles in joy
+laptop : A companion for work or play
+pebble : Small but makes waves in water
+banana : Sweet and goes well with cereal
+silver : Shiny and often used for jewelry
+shadow : A silent follower in the light
+rocket : Reaches where no one’s gone
+rabbit : Fast and loves its carrots
+planet : A spinning world in the galaxy
+friend : A treasure for life
+coffee : A warm hug in a mug
+pizza : A universal favorite dish
+flower : Colorful and fragrant beauty
+needle : Tiny but works wonders in sewing
+bat : Flies at night, loves the dark
+fox : Clever animal in the forest
+jam : Spread it on bread, sweet and sticky
+owl : Hoots at night, wide-eyed
+sun : Bright star in the daytime sky
+pen : Writes letters or doodles
+key : Unlocks doors or secrets
+rat : A sneaky rodent with a tail
+ant : Tiny but strong worker
+hat : Protects your head or adds style
+snow : Fluffy white winter magic
+wave : A friendly gesture or ocean motion
+star : Twinkles high in the sky
+frog : Jumps into ponds, loves bugs
+home : Where the heart belongs
+milk : A healthy drink for all ages
+ring : Jewelry for fingers or bells
+nest : Birds build it for their young
+moon : Lights up the night sky
+king : Rules kingdoms with a crown
+brick : A building block of walls
+apple : Sweet fruit loved in pies
+glass : Fragile, lets you see through
+river : Flows gently, carries life
+train : A long vehicle on tracks
+cloud : Floats high and brings rain
+zebra : Black and white striped animal
+plane : Flies people across skies
+mouse : Clicks computers or scurries
+grass : Grows green in the fields
+painter : Creates art on canvas
+captain : Leads a ship or a team
+laundry : Clothes cleaned and folded
+glasses : Helps you see more clearly
+tourist : Explores places for fun
+blanket : Keeps you warm and cozy
+villain : Opposes heroes in stories
+station : Where trains or buses stop
+candles : Lights up and smells sweet
+orchard : A farm of fruit trees
+axe : A tool for chopping wood
+bee : Makes honey and buzzes
+bag : Holds things you carry
+ear : Used for hearing sounds
+ink : Used for writing or drawing
+log : A fallen tree or a record
+net : Catches fish or flies
+oil : Slick liquid for cooking
+pie : Sweet or savory baked treat
+top : The highest point or a toy
+dog : Loyal friend that barks
+owl : Wise bird of the night
+cow : Farm animal that gives milk
+lip : Part of your mouth
+fan : Keeps you cool in summer
+box : Stores or transports items
+bat : Flies at night, loves the dark
+key : Opens locks
+ant : Tiny insect
+cup : Holds your tea or coffee
+bow : Tied ribbon or weapon for arrows
+ski : Slide on snow
+fig : Sweet fruit
+pen : Writes your thoughts
+toy : Fun for kids
+wolf : Wild canine in packs
+road : Where vehicles travel
+ring : Jewelry for fingers
+fish : Swims in water
+wind : Blows through trees
+book : Full of pages and knowledge
+coat : Keeps you warm in winter
+nest : Birds' cozy home
+boat : Floats on water
+cake : Sweet baked dessert
+leaf : Grows on trees
+rope : Strong cord for pulling
+bird : Flies in the sky
+sand : Covers beaches
+bell : Rings loudly or softly
+lamp : Lights up a room
+seed : Grows into a plant
+cold : Opposite of warm
+fire : Burns brightly and hot
+frog : Jumps and croaks
+dust : Fine particles in the air
+foot : Helps you walk
+star : Twinkles at night
+lake : Calm body of water
+gold : A shiny valuable metal
+plant : Grows from the soil
+chair : Sit and relax
+heart : Beats inside you
+bread : Tasty baked food
+torch : Lights up caves or paths
+paint : Adds color to surfaces
+beach : Sand meets sea
+fruit : Healthy and sweet
+storm : Rain with thunder
+cliff : Steep edge of a hill
+grain : Tiny seeds or cereals
+stone : Hard rock material
+light : Helps you see
+arrow : Sharp object for bows
+water : Essential for life
+block : Cube or obstacle
+angel : Guardian of good
+horse : Runs fast, rides fun
+wheat : Makes flour for bread
+peace : Calm and harmony
+river : Flows endlessly
+petal : Part of a flower
+party : Fun with friends
+music : Tunes and melodies
+tiger : Striped wild animal
+treetop : The highest part of a tree
+painter : Creates colorful works
+journey : Traveling to places
+orchard : Field of fruit trees
+fortune : Luck or wealth
+pyramid : Ancient triangular structure
+freedom : Feeling unbound
+journey : A trip or adventure
+teacher : Guides learning
+picture : Captures a scene
+monster : Scary mythical creature
+village : Small town
+soldier : Fights for their country
+diamond : Precious shiny gem
+captain : Leader of a ship
+lantern : Portable light source
+islands : Land surrounded by water
+blanket : Keeps you cozy
+station : Hub for trains or buses
+rainbow : Colors in the sky after rain
+kingdom : Land ruled by a king
+tunnels : Underground pathways
+airport : Place for planes to land
+courage : Bravery in the face of fear
+gallery : Place for viewing art
+gem : A shiny precious stone
+bat : Night-hunting mammal
+mix : Blend of things together
+zip : Fast closure for bags
+bug : Small insect or pest
+tie : Worn around the neck
+win : To come out on top
+mud : Wet dirt
+hot : High temperature
+run : Move quickly
+owl : Nocturnal bird
+tan : Skin tone after sun exposure
+cat : Pet with whiskers
+pan : Used for cooking food
+sip : Drink a little bit
+gym : Place to exercise
+row : Straight line of things
+fig : Sweet edible fruit
+wet : Covered with water
+lap : Part of sitting legs
+wax : Used in candles
+bat : Wooden club for games
+pit : Small hole or seed
+jaw : Part of the mouth
+net : Used for catching fish
+tin : Metal container
+saw : Tool for cutting
+oak : Type of tree
+hut : Small, simple home
+hop : Jump lightly
+van : A type of vehicle
+bud : New growth on plants
+air : Breathable substance
+tap : Light touch or faucet
+mat : Lies on the floor
+red : Bright primary color
+cow : Farm animal for milk
+eel : Long, slippery fish
+sun : Shining daytime star
+ark : Ancient large boat
+farm : Land for growing crops
+land : Ground, soil, or territory
+food : What you eat
+lion : King of the jungle
+lock : Secures a door
+pack : Group or bundle
+ship : Large boat for travel
+time : Keeps moving forward
+wall : Vertical barrier
+dark : Opposite of light
+hair : Covers your head
+team : Group working together
+lamp : Gives light to a room
+hope : Positive expectation
+snow : Falls during winter
+seat : Where you sit
+song : Words set to music
+face : Front part of your head
+gift : Present for someone
+tool : Used for fixing things
+code : Language for computers
+worm : Small, soft-bodied creature
+mask : Covers face for safety or fun
+pear : Juicy green fruit
+plow : Used for farming
+cook : Prepares food
+flow : Moves smoothly
+game : Fun activity to play
+goal : Aim or purpose
+home : Place you live in
+ring : Jewelry for fingers
+wind : Moves through air
+seal : Aquatic mammal
+nest : Birds' shelter
+grape : Small fruit for wine
+grill : Cook outdoors
+skate : Glides on ice
+plate : Holds food
+trace : Leave a mark
+crown : Worn by royalty
+stone : Hard and solid
+trail : Path in woods
+swipe : Move or steal
+clock : Measures time
+petal : Part of a flower
+trunk : Tree base or car storage
+blaze : Bright, intense fire
+scarf : Warms the neck
+music : Sound of melodies
+raven : Large black bird
+grasp : Hold tightly
+ocean : Vast body of water
+faith : Strong belief
+taste : Sense in your tongue
+pride : Feeling of self-worth
+grass : Grows in lawns
+piano : Musical instrument
+baker : Someone who makes bread
+cabin : Small wooden house
+knife : Sharp cutting tool
+feast : Large, grand meal
+beach : Sand by the sea
+apple : Red or green fruit
+house : Place for living
+harvest : Collect crops
+captain : Leads a team or ship
+glacier : Frozen ice mass
+fortune : Brings luck
+journey : Adventure
+factory : Produces goods
+station : Place to wait
+villain : Opposes the hero
+justice : Seeks fairness
+arrow : A pointed projectile
+berry : A small juicy fruit
+chain : Interlinked metal loops
+daisy : A white-petaled flower
+elbow : A joint in the arm
+field : Open land for crops
+giant : A very large being
+honey : Sweet bee product
+ivory : A tusk material
+kneel : Go down on one knee
+lemon : A sour yellow fruit
+merry : Cheerful and joyful
+ocean : Vast body of saltwater
+pearl : Found inside oysters
+queen : A royal woman
+river : Flows to the sea
+spoon : For eating soups
+tower : A tall structure
+valve : Controls flow in pipes
+whale : A large sea mammal
+picture : Captures views
+brother : Male sibling
+trainer : Coaches or teaches
+balloon : Filled with air
+courage : Inner bravery
+orchard : Grows fruits
+diamond : Precious gem
+silence : Quiet state
+teacher : Imparts knowledge
+monster : Frightening creature
+candles : Create soft light
+gallery : Displays art
+partner : Companion
+horizon : The distant view
+airport : Where planes land
+cousins : Extended family
+fashion : Trends and styles
+parasol : Shade from the sun
+ash : Residue from fire
+bow : Curved weapon for arrows
+cub : A baby animal
+dim : Opposite of bright
+fig : A sweet fruit
+gap : A small opening or space
+hen : A female chicken
+ice : Frozen water
+jam : Fruit spread for toast
+lid : Covers a container
+mud : Wet dirt
+owl : A bird that hoots
+pen : Used for writing
+rug : Covers the floor
+sap : Sticky tree fluid
+tag : A label for things
+tin : A container or metal
+top : The highest point
+van : A large vehicle
+web : A spider’s creation
+yak : A hairy mountain animal
+zip : Fastener for clothes
+rib : A bone in the chest
+orb : A round object
+arch : A curved structure
+bark : Tree covering or dog sound
+card : A paper for notes
+dome : A rounded roof
+echo : A sound that repeats
+farm : Place for crops and animals
+gold : Precious yellow metal
+hall : A corridor in a building
+jade : A green gemstone
+knot : A tie in a rope
+lamp : Gives light indoors
+mint : A green herb
+nest : A bird’s home
+plow : Used for farming
+quiz : A test of knowledge
+reef : Coral beneath the sea
+silk : Smooth, shiny fabric
+tent : Temporary outdoor shelter
+vase : Holds flowers
+yard : Open outdoor area
+zinc : A metallic element
+coil : A looped piece of wire
+drag : Pull something heavy
+grip : Hold tightly
+lava : Molten rock from a volcano
+mile : A measure of distance
+ring : Circular band
+sage : A wise person or herb
+twig : A small branch
+wolf : A wild animal in packs
+arrow : A pointed projectile
+berry : A small juicy fruit
+chain : Interlinked metal loops
+daisy : A white-petaled flower
+elbow : A joint in the arm
+field : Open land for crops
+giant : A very large being
+honey : Sweet bee product
+ivory : A tusk material
+kneel : Go down on one knee
+lemon : A sour yellow fruit
+merry : Cheerful and joyful
+ocean : Vast body of saltwater
+pearl : Found inside oysters
+queen : A royal woman
+river : Flows to the sea
+spoon : For eating soups
+tower : A tall structure
+valve : Controls flow in pipes
+whale : A large sea mammal
+anchovy : A small salty fish
+balloon : Inflated with air
+cabinet : Stores items or documents
+diamond : A precious gem
+eyelash : Protects your eyes
+flamingo : A pink bird
+glacier : Ice mass that moves
+harvest : Gather crops
+journey : A trip to new places
+kitchen : Where meals are made
+lantern : A portable light
+orchard : A place for fruit trees
+pirates : Seekers of treasure
+rainbow : Colors after rain
+sandbox : Kids play in it
+teacher : Guides learning
+village : A small settlement
+weather : Rain, sun, or wind
+zealots : Passionate believers
+avocado : Green creamy fruit
+butcher : Cuts and sells meat
+caramel : Sweet brown candy
+dolphin : Intelligent sea animal
+emerald : A green gemstone
+forgive : Let go of anger
+giraffe : Tall animal with spots
+horizon : Where earth meets sky
+islands : Land surrounded by water
+justice : Fair treatment for all
+lamprey : A jawless fish
+morning : Start of the day
+novelty : Something new
+outlook : Perspective or view
+picture : A captured scene
+silence : Complete quietness
+tractor : Farm vehicle
+warrior : Brave fighter
+zealots : Passionate activists
